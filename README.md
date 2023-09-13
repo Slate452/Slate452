@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kay
 - 👀 I’m interested in a whole lot
-- 🌱 I’m currently learning ... Python and c++
-- 💞️ I’m looking to collaborate on fun stuff
 - 📫 How to reach me ... kenechukwuogbuagu@gmail.com
 
 <!---
